@@ -1,0 +1,96 @@
+#Contact {
+  
+  background-color: sandybrown;
+  margin: auto;
+  padding: 300px 400px;
+}
+
+#About {
+  
+ background-color: cornsilk;
+  padding: 10px 10px;
+}
+
+
+body{
+  background-color: darkolivegreen;
+}
+
+.navbar .navbar-nav{
+  margin : 50px 350px;
+
+  line-height: normal;
+  text-align: justify;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: larger;
+ font-weight: bolder;
+ color: cyan;
+ font-stretch: widers;}
+ .navbar .navbar-nava:hover{
+   color: deepskyblue;
+
+  }
+
+
+
+.navbar-brand{ 
+  margin:0px 150px;
+
+}
+  
+.card-footer{
+  padding: 20px;
+  margin-top: 400px;
+}
+#p1{
+  margin:auto;
+  padding-left: 0pc;
+}
+#img{
+  width: 250px;
+  height:250px;
+  margin-top: 50px 50px;
+  padding: 10px 15px;
+  
+}
+ /* #Portfolio{
+   border: 1px;
+ } */
+ .row{
+   margin:15px 15px;
+ }
+.yel{
+  width:350px;
+  height:350px;
+  background-color: goldenrod;
+  padding: 20px;
+} 
+#Portfolio{
+  margin-bottom: 15px;
+}
+
+#portfolio span{
+  padding :10px 20px 10px 20px ;
+}
+
+#portfolio hr{
+  border-width: 3px;
+  margin-top: 06px;
+}
+#contact{
+  padding:50px 50;
+  margin:auto;
+  
+}
+.Portfolio{
+  border: 1px;
+}
+#contact span{
+  padding :10px 20px 10px 20px ;
+}
+
+#contact hr{
+  border-width: 3px;
+  margin-top: 06px;
+}
+
