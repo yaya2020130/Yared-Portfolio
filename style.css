@@ -1,8 +1,5 @@
 #Contact {
-  
-  background-color: sandybrown;
   margin: auto;
-  padding: 300px 400px;
 }
 
 #About {
@@ -59,12 +56,12 @@ body{
  .row{
    margin:15px 15px;
  }
-.yel{
+/* .yel{
   width:350px;
   height:350px;
   background-color: goldenrod;
   padding: 20px;
-} 
+}  */
 #Portfolio{
   margin-bottom: 15px;
 }
