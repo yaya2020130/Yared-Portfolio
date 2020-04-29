@@ -4,14 +4,17 @@
 
 #About {
   
- background-color: cornsilk;
+ background:url(assets/hope.image.png) no-repeat center center fixed; 
   padding: 10px 10px;
+  width:100%vp;
+  height:100%vp;
+  background-size: cover;
+  background-color: transparent;
+}
+.navbar {
+  background-color: #253336;
 }
 
-
-body{
-  background-color: darkolivegreen;
-}
 
 .navbar .navbar-nav{
   margin : 50px 350px;
@@ -50,20 +53,14 @@ body{
   padding: 10px 15px;
   
 }
- /* #Portfolio{
-   border: 1px;
- } */
+
  .row{
    margin:15px 15px;
  }
-/* .yel{
-  width:350px;
-  height:350px;
-  background-color: goldenrod;
-  padding: 20px;
-}  */
+
 #Portfolio{
   margin-bottom: 15px;
+  background: url(assets/sunrise.png) no-repeat center center fixed; 
 }
 
 #portfolio span{
@@ -90,4 +87,23 @@ body{
   border-width: 3px;
   margin-top: 06px;
 }
-
+ /* class selectors */
+.container {
+  background-color: #B5D4C9; 
+  margin-top: 50px; 
+  margin-bottom: 50px; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+}
+.footertext{
+ color :white;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: cyan;
+  text-align: center;
+  padding: .5em; 
+}
