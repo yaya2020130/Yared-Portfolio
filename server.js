@@ -31,7 +31,7 @@ app.post('/email', (req, res) => {
 
 
 
-app.get(('/','index.html'), (req, res) => {
+app.get(('/'), (req, res) => {
     res.sendFile(path.join(__dirname, 'views', 'index.html'));
 });
 app.get(('/contact.html'), (req, res) => {

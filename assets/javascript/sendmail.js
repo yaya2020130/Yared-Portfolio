@@ -1,5 +1,5 @@
 let redirect = function () {
-  $('.modal-trigger').trigger('click');
+  $('.modal trigger').trigger('fade');
   setTimeout(function(){ window.location.replace('/'); }, 3000);
 }
 
