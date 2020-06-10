@@ -4,7 +4,8 @@
 
 #About {
   
- background:url(assets/hope.image.png) no-repeat center center fixed; 
+ background:url(../image/hope.png) no-repeat center center fixed; 
+ 
   padding: 10px 10px;
   width:100%vp;
   height:100%vp;
@@ -60,7 +61,12 @@
 
 #Portfolio{
   margin-bottom: 15px;
-  background: url(assets/sunrise.png) no-repeat center center fixed; 
+  background: url(../image/2.jpg) no-repeat center center fixed; 
+  padding: 10px 10px;
+  width:100%vp;
+  height:100%vp;
+  background-size: cover;
+  background-color: transparent;
 }
 
 #portfolio span{
@@ -106,4 +112,28 @@ footer {
   background-color: cyan;
   text-align: center;
   padding: .5em; 
+}
+#Contact{
+  margin-bottom: 15px;
+  background: url(../image/1.jpg) no-repeat center center fixed; 
+  padding-top: 50px;
+  padding-bottom: 500px;
+  width:100%vp;
+  height:100%vp;
+  background-size: cover;
+  background-color: transparent;
+}
+#Technology{
+  margin-bottom: 15px;
+  background: url(../image/1.jpg) no-repeat center center fixed; 
+
+  padding-top: 50px;
+  padding-bottom: 500px;
+  width:100%vp;
+  height:100%vp;
+  background-size: cover;
+  background-color: transparent;
+}
+.logo{
+  width:300px;
 }
