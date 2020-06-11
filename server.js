@@ -6,7 +6,7 @@ const sendMail = require('./mail')
 const PORT = process.env.PORT || 8080;
 
 
-//Data parsing
+//Data parsinggit 
 app.use(express.urlencoded({
     extended: false
 }));
