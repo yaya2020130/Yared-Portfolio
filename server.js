@@ -47,7 +47,7 @@ app.get(('/language.html'), (req, res) => {
 });
 
 
-app.get(('/resume.pdf'), (req, res) => {
+app.get(('/SQLRESUME.pdf'), (req, res) => {
     res.sendFile(path.join(__dirname, 'assets', 'SQLRESUME.pdf'))
 })
 
